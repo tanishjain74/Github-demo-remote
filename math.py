@@ -5,7 +5,7 @@ def Add(x,y):
 def Subtract(x,y):
     return x-y
 # Multiply Implementation
-def Multiply():
+def Multiply(x,y):
     return x*y
 # Divide Implementation
 def Divide():
