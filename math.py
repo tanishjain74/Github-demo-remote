@@ -2,7 +2,7 @@
 def Add(x,y):
     return x+y
 # Subtract Implementation
-def Subtract():
+def Subtract(x,y):
     return x-y
 # Multiply Implementation
 def Multiply():
