@@ -1,14 +1,14 @@
-# add implementation
-def add():
+# Add Implementation
+def Add():
     return x+y
-# subtract implementation
-def subtract():
+# Subtract Implementation
+def Subtract():
     return x-y
-# multiply implementation
-def multiply():
+# Multiply Implementation
+def Multiply():
     return x*y
-# divide implementation
-def divide():
+# Divide Implementation
+def Divide():
     if y==0:
         return DIVIDE_BY_0_ERROR
     else:
