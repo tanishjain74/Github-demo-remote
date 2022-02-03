@@ -1,5 +1,5 @@
 # Add Implementation
-def Add():
+def Add(x,y):
     return x+y
 # Subtract Implementation
 def Subtract():
